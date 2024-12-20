@@ -47,13 +47,6 @@
 
 ###
 
-<h3 align="left">Games</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/FelipeMachado26/FelipeMachado26/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">Social Midia</h3>
 
